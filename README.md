@@ -2,6 +2,15 @@
 This project focuses on solving the problem of personality celebrity detection using machine learning techniques. The goal is to accurately classify images of individuals and determine whether they resemble a particular celebrity or not. This README file provides an overview of the project, its features, dependencies, and instructions on how to use and reproduce the results.
 * Personality Celebrity Detection is a machine learning problem that aims to classify images of individuals and determine if they resemble a specific celebrity or not. The project utilizes various classification algorithms, such as Support Vector Machines (SVM) and logistic regression, to achieve accurate predictions. In addition, it incorporates feature engineering techniques, including wavelet transform from OpenCV and Haarcascades for eyes and face detection.
 
+## About Dataset
+The dataset of this project are images collected from google using a google chrome extension called Fatkun.
+These images belong to 5 different celebre personnalities which are:
+* Elon Musk
+* Sundar pichai
+* Jeff Bezos
+* Jack Ma
+* Mark Zukckerberg
+
 ## Features
 The project offers the following features:
 
